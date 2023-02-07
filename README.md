@@ -7,7 +7,7 @@ use "pip install virtualenv"
 activate the virtualenv or create your own
 to create "python -m virtualenv env"
 
-to activate on Windows "source env\Scripts\activate"
+to activate the environment on Windows "source env\Scripts\activate"
 to activate on Mac "source env/bin/activate"
 
 Once the environment is started use "pip install -r requirements.txt"
@@ -17,3 +17,5 @@ Use "flask run" to run the application
 
 To stop the app from running press CRTL + C 
 and deactivate the environment using "deactivate"
+
+To Run the app first activate the environment and use "flask run"
