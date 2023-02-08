@@ -5,7 +5,7 @@ Python and pip must be installed
 
 use "pip install virtualenv"
 activate the virtualenv or create your own
-to create "python -m virtualenv env"
+to create "python -m virtualenv env" ot "virtualenv env"
 
 to activate the environment on Windows "source env\Scripts\activate"
 to activate on Mac "source env/bin/activate"
